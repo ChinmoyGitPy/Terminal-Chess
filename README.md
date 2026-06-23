@@ -1,4 +1,4 @@
-**Download the executable from the dist folder... **
+**Download the executable from the dist folder...**
 
 **As the name suggests, you can intitutively understand it's basically a chess that can be played in the terminal :) I've implemented all complex logic like castling, en passant, pawn promotion etc. I used lowercase letters to indicate black pieces and uppercase letters for white pieces.** 
 ![image](https://cdn.hackclub.com/019eae21-ea6c-7dfd-9d52-e0b01ec185ff/Screenshot%202026-06-10%20020800.png)
